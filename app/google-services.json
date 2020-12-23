@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "409516589909",
+    "firebase_url": "https://arrangeit-501cb.firebaseio.com",
+    "project_id": "arrangeit-501cb",
+    "storage_bucket": "arrangeit-501cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409516589909:android:adedd585eab500548fe5dc",
+        "android_client_info": {
+          "package_name": "com.andsofts.ridwane.arrangeit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409516589909-sb02blfafge8cv5e2kovf8hh82bbhki1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.andsofts.ridwane.arrangeit",
+            "certificate_hash": "9d20f6eebc4166238842b210e9e3bd17e87d4e4d"
+          }
+        },
+        {
+          "client_id": "409516589909-glmpijr8mc64161thhi4m8lais4c4p9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2E1mvLyFU0IJ3F4P4NBjRGBhyqH4nav8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409516589909-glmpijr8mc64161thhi4m8lais4c4p9q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
